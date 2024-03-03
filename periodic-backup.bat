@@ -1,6 +1,7 @@
 @echo off
 
 :loop
+git checkout main
 git add .
 git commit -m Update
 git push
