@@ -1,8 +1,7 @@
 @echo off
 
 git checkout publish
-git add .
-git commit -m Updates
+git merge main
 git push
 git checkout main
 
