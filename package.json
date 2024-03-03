@@ -1,0 +1,15 @@
+{
+  "name": "software-notes",
+  "version": "1.0.0",
+  "description": "software-notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node node_modules/tiddlywiki/tiddlywiki.js notes-wiki --build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tiddlywiki": "^5.3.3"
+  }
+}
