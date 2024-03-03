@@ -1,0 +1,16 @@
+created: 20240303161625911
+modified: 20240303161911792
+tags: 
+title: DNS setup for mail server validation
+type: text/vnd.tiddlywiki
+
+! DNS Setup
+
+| !Field   | !Entry                                               |
+| Host   |  @                                                     |
+| Value  | v=spf1 include:mout.perfora.net ~all |
+| TTL     |  3600                                                |
+
+''Note:'' the `Value` entry may have multiple `include:mail.example.com` items.
+
+For more info read [[this|https://support.google.com/a/answer/33786]].
