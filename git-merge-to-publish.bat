@@ -1,7 +1,7 @@
 @echo off
 
 git checkout publish
-git push
+git merge main
 git checkout main
 
 timeout 10
