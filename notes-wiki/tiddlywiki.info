@@ -9,7 +9,11 @@
     ],
     "themes": [
         "tiddlywiki/vanilla",
-        "tiddlywiki/snowwhite"
+        "tiddlywiki/snowwhite",
+        "tiddlywiki/tight",
+        "tiddlywiki/centralised",
+        "tiddlywiki/starlight",
+        "tiddlywiki/seamless"
     ],
     "build": {
         "index": [
