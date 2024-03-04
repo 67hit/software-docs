@@ -2,7 +2,7 @@
 
 :loop
 git checkout main
-git add .
+git add -A :/
 git commit -m Update
 git push
 timeout 3600
