@@ -1,3 +1,5 @@
-* [[OpenBSD VPN]]
-* [[GitHub Pages workflow setup]]
-* [[Baikal CalDAV server]]
+!! OpenBSD 
+<<list-links "[tag[openbsd]]">>
+
+!! STM32
+<<list-links "[tag[stm32]]">>

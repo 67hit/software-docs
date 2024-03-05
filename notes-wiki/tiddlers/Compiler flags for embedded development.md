@@ -27,8 +27,8 @@ See [gcc command options](https://gcc.gnu.org/onlinedocs/gcc/Invoking-GCC.html).
 | -std=c11                          | [C dialect](https://gcc.gnu.org/onlinedocs/gcc/C-Dialect-Options.html) |
 | -MMD                              | Output a rule for the dependencies of the main .c file ([Preprocessor](https://gcc.gnu.org/onlinedocs/gcc/Preprocessor-Options.html)) |
 | -MP                               | Make generated dependencies phony targets, to work around some make issue. ([Preprocessor](https://gcc.gnu.org/onlinedocs/gcc/Preprocessor-Options.html))|
-| -MF"$(@:%.o=%.d)"                 | File to write the dependencies.  (Derived from target name, see [here](make-configuration).)    |
-| -MT"$@"                           | Change the name of the dependency [target](make-configuration), which would be the .c file by default |
+| -MF"$(@:%.o=%.d)"                 | File to write the dependencies.  (Derived from target name, see [here](#Make).)    |
+| -MT"$@"                           | Change the name of the dependency [target](#Make), which would be the .c file by default |
 | -c                                | Compile or assemble the source files, but do not link. ([Overall gcc options](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html#Overall-Options))|
 | -o "$@"                           | Name of output file. |
 | "$<"                              | Input file (the first prerequisite) |
