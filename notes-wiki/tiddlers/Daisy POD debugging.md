@@ -1,5 +1,5 @@
-## openocd
-This is what gdb will connect to.
+## [openocd](https://openocd.org/)
+This is what gdb will connect to. [Here](https://openocd.org/doc-release/html/About.html#What-is-OpenOCD_003f) is some general info.
 
 A small section of the `make` file
 ```make
