@@ -15,3 +15,24 @@ openocd:
 ```
 
 ## gdb
+### VS Code launch.json configuration
+```json
+{
+  "configurations": [
+    {
+      "name": "(gdb) Launch",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceRoot}/build/SimpleOscillator.elf",
+      "MIMode": "gdb",
+      "cwd": "${workspaceRoot}/build/",
+      "targetArchitecture": "arm",
+      "miDebuggerPath": "gdb-multiarch",
+      "miDebuggerServerAddress": "127.0.0.1:3333",
+      "stopAtEntry": true
+    },
+  ],
+  "version": "0.2.0"
+}
+```
+More info [here](https://github.com/microsoft/vscode-docs/blob/main/docs/cpp/launch-json-reference.md) (fromMicrosoft).
