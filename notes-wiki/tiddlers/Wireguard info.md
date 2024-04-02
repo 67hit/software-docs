@@ -4,3 +4,4 @@
 * https://www.wireguard.com/quickstart/
 * https://ianix.com/wireguard/openbsd-howto.html
 * https://www.stavros.io/posts/how-to-configure-wireguard/
+* https://www.procustodibus.com/blog/2021/03/wireguard-allowedips-calculator/
