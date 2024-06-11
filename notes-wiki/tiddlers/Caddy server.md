@@ -1,0 +1,1 @@
+- [[Templates (Caddyfile directive) — Caddy Documentation|https://caddyserver.com/docs/caddyfile/directives/templates]]
