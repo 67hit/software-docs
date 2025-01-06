@@ -1,4 +1,5 @@
 This is display math text:
+
 $$
 \sin(\pi) = 0 \qquad e^{i\pi}\! + 1 = 0
 $$
