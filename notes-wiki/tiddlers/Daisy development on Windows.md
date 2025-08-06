@@ -1,7 +1,7 @@
-* [Install the toolchain](https://github.com/electro-smith/DaisyWiki/wiki/1c.-Installing-the-Toolchain-on-Windows)
+* [Install the toolchain](https://daisy.audio/tutorials/toolchain-windows/)
 
 ## Without stlink
-* [Set up USB driver](https://github.com/electro-smith/DaisyWiki/wiki/Using-Zadig-to-Reset-USB-Driver-(Windows-Only))
+* [Set up USB driver](https://daisy.audio/tutorials/zadig/)
 
 ## With stlink
 * `$ make program`
