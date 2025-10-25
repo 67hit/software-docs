@@ -1,0 +1,2 @@
+- [Self-host a Jitsi Meet Server](https://www.computerhope.com/issues/ch002077.htm) (with Password Protection)
+- [Self-Hosting Guide - Overview - Jitsi Meet](https://jitsi.github.io/handbook/docs/devops-guide/)

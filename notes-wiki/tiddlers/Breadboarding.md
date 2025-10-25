@@ -1,0 +1,1 @@
+- [Bogatin's Practical Guide to Prototype Breadboard and PCB Design, Bogatin, Eric](https://www.amazon.com/Bogatins-Practical-Prototype-Breadboard-Design/dp/163081962X)
