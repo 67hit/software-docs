@@ -2,3 +2,7 @@
 node_modules
 notes-wiki/output
 docs
+access.log
+error.log
+wiki.pid
+
