@@ -92,3 +92,10 @@ Apply it on wg2:
 ```
 
 Now you can reach 10.0.0.1 from wg2 via the tunnel.
+
+## Generate QR code
+For phone use you can generate a QR code:
+
+```
+$ qrencode -t png -o client-qr.png -r wg-client.conf
+```

@@ -1,5 +1,5 @@
 ## OpenBSD 
-<<list-links "[tag[openbsd]]">>
+<<list-links filter:"[tag[openbsd]]">>
 
 ## STM32
-<<list-links "[tag[stm32]]">>
+<<list-links filter:"[tag[stm32]]">>
