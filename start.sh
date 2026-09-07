@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
-WIKIEXE=/usr/local/bin/tiddlywiki
+WIKIEXE=tiddlywiki
 
 WIKIDIR=$SCRIPT_DIR/notes-wiki
 ACCESS_LOG=$SCRIPT_DIR/access.log
